@@ -1,0 +1,7 @@
+﻿   Qt/MSBuild: 3.4.1.0
+   Qt: 5.14.2
+  moc server.h
+  main.cpp
+  server.cpp
+  moc_server.cpp
+  server1.0.vcxproj -> G:\服务器1.0\server1.0\x64\Debug\server1.0.exe
